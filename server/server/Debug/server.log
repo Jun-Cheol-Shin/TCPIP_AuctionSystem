@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\904si\OneDrive\문서\GitHub\3-1Server\중간고사\server\server\main.cpp(856): warning C4172: 지역 변수 또는 임시: msg의 주소를 반환하고 있습니다.
+C:\Users\904si\OneDrive\문서\GitHub\3-1Server\중간고사\server\server\main.cpp(1132): warning C4172: 지역 변수 또는 임시: msg의 주소를 반환하고 있습니다.
+C:\Users\904si\OneDrive\문서\GitHub\3-1Server\중간고사\server\server\main.cpp(1157): warning C4172: 지역 변수 또는 임시: msg의 주소를 반환하고 있습니다.
+  server.vcxproj -> C:\Users\904si\OneDrive\문서\GitHub\3-1Server\중간고사\server\Debug\server.exe
